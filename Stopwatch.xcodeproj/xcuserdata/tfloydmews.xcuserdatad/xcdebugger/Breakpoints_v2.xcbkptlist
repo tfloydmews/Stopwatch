@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Stopwatch/ViewController.swift"
-            timestampString = "508995310.338174"
+            timestampString = "509348353.533175"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
             landmarkName = "stopTimer(_:)"
             landmarkType = "7">
          </BreakpointContent>
